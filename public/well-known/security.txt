@@ -1,0 +1,22 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:security@audinate.com
+Expires: 2023-07-01T13:00:00.000Z
+Encryption: https://keys.openpgp.org/search?q=cares@audinate.com
+Encryption: https://keybase.io/benlow_ad8/pgp_keys.asc
+Preferred-Languages: en
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEESnoryet5b5JUxZSTB92tcPR/pvIFAmM74DMACgkQB92tcPR/
+pvKS3Av/ahVw3nYwwkpOiL9MSn13UpnxJT128Lve9mJbRo3GxRJhAxfC6GmNtOmr
+jE3NivdFi0GZW4RQTzyXJ+xoaSc7ucVfbjaZZKEsMqlC/LxJPSYl+J64fAKbY23L
+W7kXMj+aBJmu52QC3UaIdcW7KKwSZkbRKeRPASih8U4uTCIiXwakoAqiM8Ravio4
+mEKY9IawcpFEshZe8Ql2ZjDNPaUHGDq2PjFf/lWz0FLhJq8rNWTXn71rtfa3/X4U
+GM+Lc1oeyy4tPeGcHtO4CXkEG6RRyetLHBgREoubxsOCHMKNGGuo13VTYDqUkdKK
+JD/oiwuRLLzrINydOiMkJUvr+uOt/HTpWT8LAQKtzNpXNWU7PAE6FRxBnDzD/M3/
+C/2WZC0pLLBfPzq64lM7LJEcA9bcQqJByi85zH9ZpgRNgCsRlXukBIXriULY+Woc
+OWjUX4QCvipy3x2+dZHUk2HJv8lrkLrc3jfKF3++lHMFQbgvBT6x1Sc/V0iurMAx
+cI2eT+3a
+=4+yL
+-----END PGP SIGNATURE-----

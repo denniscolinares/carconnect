@@ -1,0 +1,9 @@
+/* purgecss start ignore */
+
+.DemoPage {
+	.content {
+		@apply m-auto max-w-sl sl:w-3/4 w-full;
+	}
+}
+
+/* purgecss end ignore */

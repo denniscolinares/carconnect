@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+	  "target": "es6",
+    "paths": {
+	    "@/pages/*": ["./pages/*"],
+      "@/components/*": ["./components/*"],
+	    "@/library/*": ["./library/*"],
+	    "@/server/*": ["./server/*"],
+	    "@/redux/*": ["./redux/*"],
+	    "@/styles/*": ["./styles/*"]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/* purgecss start ignore */
+
+.HomePage {
+	flex-grow: 1;
+	
+	.content {
+		@apply m-auto max-w-sl sl:w-3/4 w-full;
+	}
+}
+
+/* purgecss end ignore */
